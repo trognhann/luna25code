@@ -33,7 +33,7 @@ print("Using device:", device)
 # ===== Paths =====
 # base_dir = Path("/content")
 nifti_path = "image.nii.gz"
-model_path = r"assets\dt_model.ts"
+model_path = "assets\\dt_model.ts"
 output_json = "detect_result.json"
 
 # if not nifti_path.exists():
