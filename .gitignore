@@ -1,0 +1,9 @@
+assets/
+*.pth
+*.pkl
+*.pt
+__pycache__/
+.vscode/
+*.dcm
+*.zip
+*.nii.gz

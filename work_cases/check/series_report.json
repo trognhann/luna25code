@@ -1,0 +1,13 @@
+[
+  {
+    "series_index": 1,
+    "series_id": "1.2.840.113619.2.417.3.330070512.764.1765237290.256.3",
+    "source_dir": "D:\\Coding\\luna25_2203\\work_cases\\check\\extracted",
+    "num_files": 273,
+    "first_file": "D:\\Coding\\luna25_2203\\work_cases\\check\\extracted/1.2.840.113619.2.417.3.330070512.764.1765237290.327.273.dcm",
+    "modality": "CT",
+    "series_description": "1.25mm NHU MO PHOI",
+    "study_description": "Chup cat lop vi tinh long nguc co tiem thuoc can quang tu 1 ",
+    "body_part_examined": "CHEST "
+  }
+]
